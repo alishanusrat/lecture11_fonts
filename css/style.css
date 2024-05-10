@@ -1,0 +1,15 @@
+
+h1
+{
+  font-family: "Playfair Display", serif;
+  font-weight: 300;
+}
+
+@font-face{
+  src:url(../fonts/opensans/opensans_bold.ttf);
+  font-family:opensans-bold ;
+}
+h2{
+  font-family:opensans-bold ;
+  font-weight: 700;
+}
